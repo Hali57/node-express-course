@@ -28,5 +28,4 @@ Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.c
 11. Auth Workflow (verify email, reset password)
 
 
-##My Contribution
-I added code that could be essential for shortening urls. I found it usefull in completing a project that was part of the back-end development course provided by Freecodecamp.
+My Contribution -I added the url-shortener file . It has code that is essential for shortening urls. I found it usefull in completing a project that was part of the back-end development course provided by Freecodecamp.
