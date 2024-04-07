@@ -26,6 +26,10 @@ Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.c
 9. Stripe Payment
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
-
-
+ 
+                    **Assignment Tasks**
 My Contribution -I added the url-shortener file . It has code that is essential for shortening urls. I found it usefull in completing a project that was part of the back-end development course provided by Freecodecamp.
+---i then added an index.js file in the url shortener that contains alternative code that uses asychronous functions to shorten a url alongside express.js. This created a conflict that i resolved. using
+'git pull origin main' command
+--- I then created an index.html file and hosted it on gitHub for the first time, which was fun. This was done by enabling gitHub pages located in settings.
+--- i also joined codeTriage a site dedicated to providing open source repos and thus the chance to contribute and work with other developers.
